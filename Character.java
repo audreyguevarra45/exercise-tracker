@@ -19,3 +19,5 @@ public class Character {
         return name + " — " + colour + ", " + accessory;
     }
 }
+
+//test 
